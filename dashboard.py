@@ -35,7 +35,7 @@ st.markdown("""
 st.markdown('<p class="title">Sales Analytics</p>', unsafe_allow_html=True)
 
 image_path = r'C:\Users\HP\Downloads\elcorps_logo.png'
-st.sidebar.image(image_path, use_column_width=True)
+#st.sidebar.image(image_path, use_column_width=True)
 # Custom CSS to be injected
 custom_css = """
 <style>
