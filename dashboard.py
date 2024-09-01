@@ -15,8 +15,8 @@ import streamlit as st
 
 warnings.filterwarnings('ignore')
 
-# Mengatur konfigurasi halaman Streamlit
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#Mengatur konfigurasi halaman Streamlit
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(page_title="Fashion Muslim Industry", page_icon=":chart_with_upwards_trend:", layout="wide")
 st.markdown("""
     <style>
